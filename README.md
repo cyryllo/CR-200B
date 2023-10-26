@@ -1,3 +1,4 @@
+
 # Community firmware for the Creality CR-6 3D printer
 
 **This branch is for the Creality CR-6 SE with stock v4.5.2 motherboard and the stock display.**
